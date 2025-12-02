@@ -35,21 +35,11 @@ const Footer = () => {
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="h-4 w-4" />
-                +251 96 1249178
+                +971524144830
               </div>
-              <div className="flex items-center pl-6">+251 91 056 6185</div>
             </div>
           </div>
           <div className="text-sm text-muted-foreground text-left space-y-3 py-4 md:py-0">
-            <div>
-              <div className="font-medium text-xl md:text-xl mb-2">
-                Our Address
-              </div>
-              <div className="flex items-center gap-2">
-                <MapPin className="h-4 w-4" />
-                Addis Ababa, Ethiopia
-              </div>
-            </div>
             <div className="flex gap-2 justify-start">
               <a href="https://instagram.com/fitai_x">
                 <Button variant="ghost" size="icon" className="h-8 w-8">
